@@ -25,3 +25,9 @@ To use the Drug Efficacy and Safety Analysis repository, follow these steps:
 ## Dependencies
 
 The code in this repository requires the following dependencies:
+* Python 3.6 or higher
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
