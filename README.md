@@ -37,3 +37,5 @@ The code in this repository requires the following dependencies:
 If you would like to contribute to the Drug Efficacy and Safety Analysis repository, please follow these steps:
 * Fork the repository to your own GitHub account.
 * Create a new branch in your fork for your changes.
+* Make your changes to the code or documentation.
+* Commit your changes and push them to your fork.
