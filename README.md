@@ -40,3 +40,7 @@ If you would like to contribute to the Drug Efficacy and Safety Analysis reposit
 * Make your changes to the code or documentation.
 * Commit your changes and push them to your fork.
 * Create a pull request to merge your changes into the main repository.
+
+## License
+
+The Drug Efficacy and Safety Analysis repository is licensed under the MIT License. Please see the LICENSE file for more information.
