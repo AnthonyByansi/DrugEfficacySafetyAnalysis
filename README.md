@@ -19,3 +19,4 @@ To use the Drug Efficacy and Safety Analysis repository, follow these steps:
 * Clone the repository to your local machine using `https://github.com/AnthonyByansi/DrugEfficacySafetyAnalysis.git`
 * Navigate to the Code directory using the command line.
 * Run the data cleaning scripts to prepare the data for analysis.
+* Run the data analysis scripts to analyze the data and generate the results.
