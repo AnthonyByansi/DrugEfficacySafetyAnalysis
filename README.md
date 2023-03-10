@@ -44,3 +44,6 @@ If you would like to contribute to the Drug Efficacy and Safety Analysis reposit
 ## License
 
 The Drug Efficacy and Safety Analysis repository is licensed under the [MIT License](https://github.com/AnthonyByansi/DrugEfficacySafetyAnalysis/blob/main/LICENSE). Please see the LICENSE file for more information.
+
+## References
+## Acknowledgements
