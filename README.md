@@ -31,3 +31,7 @@ The code in this repository requires the following dependencies:
 * Matplotlib
 * Seaborn
 * Scikit-learn
+
+## Contributing
+
+If you would like to contribute to the Drug Efficacy and Safety Analysis repository, please follow these steps:
