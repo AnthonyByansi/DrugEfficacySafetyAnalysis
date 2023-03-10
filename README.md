@@ -6,3 +6,4 @@ The Drug Efficacy and Safety Analysis repository contains data and code used to 
 ## Contents
 
 The repository contains the following files and directories:
+* **Data**: This directory contains the raw data used in the analysis, including clinical trial data and post-market surveillance data.
