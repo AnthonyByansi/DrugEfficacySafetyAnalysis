@@ -11,3 +11,4 @@ The repository contains the following files and directories:
 * **Code**: This directory contains the code used to conduct the analysis. The code is written in Python and includes scripts for data cleaning, data analysis, and visualization.
 
 * **Results**: This directory contains the results of the analysis, including tables and graphs that summarize the efficacy and safety of the drugs.
+* **Documentation**: This directory contains documentation on the analysis methods, data sources, and code.
