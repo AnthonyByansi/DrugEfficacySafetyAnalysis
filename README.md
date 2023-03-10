@@ -7,3 +7,5 @@ The Drug Efficacy and Safety Analysis repository contains data and code used to 
 
 The repository contains the following files and directories:
 * **Data**: This directory contains the raw data used in the analysis, including clinical trial data and post-market surveillance data.
+
+* **Code**: This directory contains the code used to conduct the analysis. The code is written in Python and includes scripts for data cleaning, data analysis, and visualization.
