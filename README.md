@@ -21,3 +21,7 @@ To use the Drug Efficacy and Safety Analysis repository, follow these steps:
 * Run the data cleaning scripts to prepare the data for analysis.
 * Run the data analysis scripts to analyze the data and generate the results.
 * View the results in the Results directory.
+
+## Dependencies
+
+The code in this repository requires the following dependencies:
