@@ -39,3 +39,4 @@ If you would like to contribute to the Drug Efficacy and Safety Analysis reposit
 * Create a new branch in your fork for your changes.
 * Make your changes to the code or documentation.
 * Commit your changes and push them to your fork.
+* Create a pull request to merge your changes into the main repository.
